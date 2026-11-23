@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Schemat XSD dla dyskografii zespołu Manna Machine.
+  Opisuje strukturę pliku manna_machine.xml i pozwala go zwalidować.
+-->
+<!-- czemu nie https ???-->
+<marcin:schema xmlns:marcin="http://www.w3.org/2001/XMLSchema"
+  elementFormDefault="qualified">
+
+  <!-- wybrałem marcin jako namespace 
+   z jakiegos powodu qualfied robi żę każdy element musi 
+   byż w definiowanym namespace , na takie skali wydaje sie t o niepotrzbne -->
+
+  <marcin:element name="release">
+    <marcin:complexType>
+      <marcin:sequence>
+        <marcin:element name="releaseTitle" type="marcin:string" />
+        <marcin:element name="releaseDate" type="marcin:string" />
+
+        <marcin:element name="track" maxOccurs="unbounded">
+          <marcin:complexType>
+            <marcin:sequence>
+              <marcin:element name="title" type="marcin:string" />
+              <marcin:element name="duration" type="marcin:string" />
+            </marcin:sequence>
+          </marcin:complexType>
+        </marcin:element>
+      </marcin:sequence>
+    </marcin:complexType>
+  </marcin:element>
+
+</marcin:schema>

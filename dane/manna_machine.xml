@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- komentarz z html o bo taki synntax-->
+<!-- podział na wydania. wydanie . i pioesnki w wydaniu. 
+wydanie ma nazwe i date . a pioesnki maja nazwe i długość
+-->
+
+
+<release>
+  <releaseTitle>MANNA MACHINE</releaseTitle>
+  <releaseDate>2025-05-26</releaseDate>
+
+  <track>
+    <title>KOYAANISQATSI</title>
+    <duration>4:25</duration>
+  </track>
+  <track>
+    <title>MANNA MACHINE</title>
+    <duration>3:34</duration>
+  </track>
+  <track>
+    <title>ZAMKNĄŁEM</title>
+    <duration>3:52</duration>
+  </track>
+  <track>
+    <title>MAŁPA KOKO</title>
+    <duration>4:09</duration>
+  </track>
+  <track>
+    <title>NIC NIE BĘDZIE</title>
+    <duration>5:41</duration>
+  </track>
+  <track>
+    <title>FILMY KLASY B</title>
+    <duration>5:47</duration>
+  </track>
+
+</release>

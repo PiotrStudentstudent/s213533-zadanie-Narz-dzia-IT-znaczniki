@@ -1,0 +1,34 @@
+{
+	"release": 
+    {
+		"releaseTitle": "MANNA MACHINE",
+		"releaseDate": "2025-05-26",
+		"track":
+         [
+			{
+				"title": "KOYAANISQATSI",
+				"duration": "4:25"
+			},
+			{
+				"title": "MANNA MACHINE",
+				"duration": "3:34"
+			},
+			{
+				"title": "ZAMKNĄŁEM",
+				"duration": "3:52"
+			},
+			{
+				"title": "MAŁPA KOKO",
+				"duration": "4:09"
+			},
+			{
+				"title": "NIC NIE BĘDZIE",
+				"duration": "5:41"
+			},
+			{
+				"title": "FILMY KLASY B",
+				"duration": "5:47"
+			}
+		]
+	}
+}
