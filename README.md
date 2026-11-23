@@ -22,7 +22,7 @@ plik xml został zwalidowany plikiem xsd
 |xml| bez komentzrza|
 |xsd| bez komentarza|
 
-<!-- komentarz-->
+<!-- orginalnie to było robione na gitlabie ale sie wykrzaczył , tam objekt div działał idealnie i faktycznie była ramka-->
 <div style="background-color:#213700; border-radius:30px;padding:20px;margin:30px;">
    <b>jako że w markdownie można używać html to go użyje !!</b>
 </div>
