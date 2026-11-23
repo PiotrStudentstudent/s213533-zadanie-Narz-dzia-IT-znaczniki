@@ -36,5 +36,7 @@ działało i z jakiego powodu visual studio sie tak bardzo z tym językiem nie w
 nielegalne.
 
 ## Status Projektu
->Projekt po oddaniu do oceny zostanie raczej opuszczony, bedzie martwy >nieodwiedzany niczym śmieć w nieskończonym morzu internetu.
->Jednak zostaje nadzieja absurdalna i piękna że kiedyś zamiast >tworzyć nowy projekt na gitlab najprościej zmienie ten
+>Projekt po oddaniu do oceny zostanie raczej opuszczony, bedzie martwy 
+>nieodwiedzany niczym śmieć w nieskończonym morzu internetu.
+>Jednak zostaje nadzieja absurdalna i piękna że kiedyś zamiast
+>tworzyć nowy projekt na gitlab najprościej zmienie ten
